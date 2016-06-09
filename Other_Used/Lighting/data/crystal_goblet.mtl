@@ -1,0 +1,12 @@
+#Produced by Art of Illusion 2.7, Sun Feb 22 22:39:22 MST 2009
+newmtl liquid
+Kd 1 1 1
+Ks 0.2193 0.2193 0.2193
+Ka 0 0 0
+illum 2
+Ns 103
+newmtl Untitled_1
+Kd 1 1 1
+Ks 0 0 0
+Ka 0 0 0
+illum 1
